@@ -52,7 +52,8 @@ Make sure you have Python 3.11+ installed and it is added to your path.
 ```
 ### 3. Open AD_BEAMER:
 ```
-You should Now See The Gui. If you dont, Contact me on Discord : @neurible
+```
+### You should Now See The Gui. If you dont, Contact me on Discord : @neurible
 ```
 ```
 ### 5. Configurable Options:
