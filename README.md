@@ -68,6 +68,4 @@ Now you can change the Webhook in the config.cfg File.
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.ibb.co/wrsPmMW/Untitled.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://media.discordapp.net/attachments/1152928709192466473/1328324947642159115/image.png?ex=67864a82&is=6784f902&hm=726d67ed2f98cb970af56021f5db1423ddef34ef301550888d04ce080fe8976f&=&format=webp&quality=lossless"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/zReVojP.png"></img>  
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" 
 </div>
