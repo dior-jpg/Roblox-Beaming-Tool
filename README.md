@@ -50,13 +50,13 @@
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
 ```
-### 3. Open AD_BEAMER:
+Open AD_BEAMER
 ```
 ```
-### You should Now See The Gui. If you dont, Contact me on Discord : @neurible
+You should Now See The Gui. If you dont, Contact me on Discord : @neurible
 ```
 ```
-### 5. Configurable Options:
+Configure Options
 ```
 ```
 Now you can change the Webhook in the config.cfg File.
@@ -75,27 +75,3 @@ Now you can change the Webhook in the config.cfg File.
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
 </div>
-
-## Contributing
-Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add New Feature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
-
-
-## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
-
-
-## Star Graph
-
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
