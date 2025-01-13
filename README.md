@@ -3,8 +3,6 @@
 </h1>
 AD BEAMER V5 DROPPED!!!
 <div align="center">
-
-<div align="center">
   <br>
   <img  src="https://img.shields.io/github/downloads/Smug246/Luna-Grabber/total?color=6d00c1">
   <img  src="https://img.shields.io/github/stars/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
