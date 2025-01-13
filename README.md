@@ -25,7 +25,7 @@
 ## Features
 
 - Roblox Info
-    - Cookie
+    - Cookies
     - Password
     - Billing
     - Parental Pin 
