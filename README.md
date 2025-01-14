@@ -1,4 +1,4 @@
-Tool Broken Rightnow. Will fix Tommorow (15.01.25)
+Tool Broken Right now. Will fix Tommorow (15.01.25)
 
 
 <h1 align="center">
