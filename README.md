@@ -1,3 +1,6 @@
+Tool Broken Rightnow. Will fix Tommorow (15.01.25)
+
+
 <h1 align="center">
   Roblox Multi Token Grabber
 </h1>
