@@ -18,7 +18,7 @@ VERSION 7 FIXED EVERYTHING!!
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
-  Discord : @neurible1
+  Discord : @.neurible
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div>
@@ -54,7 +54,7 @@ Make sure you have Python 3.11+ installed and it is added to your path.
 Open AD_BEAMER
 ```
 ```
-You should Now See The Gui. If you dont, Contact me on Discord : @neurible1
+You should Now See The Gui. If you dont, Contact me on Discord : @.neurible
 ```
 ```
 Configure Options
